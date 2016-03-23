@@ -1,2 +1,2 @@
 # Delay-Random-Walk
-control version on delay randon walk sofware
+control version on delay randon walk software
